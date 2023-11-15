@@ -3,7 +3,7 @@ using namespace std;
 
 #include <complex>
 #include <cmath>
-
+// fark git cannot reconize Chinese
 int main() {
 
 	complex<double> z1, z2;
@@ -24,6 +24,6 @@ int main() {
 	cout << " arg of z1 = " << arg(z1) << endl;
 	cout << " conjugate of z1 = " << conj(z1) << endl;
 	cout << " exp(z1) = " << exp(z1) << endl;
-
+	// so, when I write here ,what will happen?
 	return 0;
 }
